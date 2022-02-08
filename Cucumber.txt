@@ -4,3 +4,7 @@ feature
 background
 Given
 When
+and
+then 
+Scenario
+Scenario outline
